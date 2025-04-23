@@ -2,7 +2,7 @@
 date: MM-DD-YYYY
 time:
 links:
-- "new_url"
+  - "new_url"
 tags:
   - new_entry
 ---
